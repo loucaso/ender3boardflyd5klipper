@@ -76,4 +76,6 @@ Printer: Creality Ender 3
 
 Configurations by: loucaso
 
-   
+   pinout 
+   https://mellow-3d.github.io/images/fly-d5/Fly-D5-Pinout.svg
+
